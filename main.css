@@ -1,0 +1,107 @@
+.topBar{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	float:left;
+	clear:right;
+
+}
+.myName{
+	width: 400px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	color: #00BFFF;
+	font-size: 50px;
+	font-family: 'Kavoon', cursive;
+	float: left;
+
+}
+.rightNav{
+	width: 400px;
+	height: 100px;
+	margin-right: 20px;
+	margin-top: 25px;
+	font-size: 24px;
+	font-family: 'Kavoon', cursive;
+	color: white;
+	float: right;
+}
+.logo{
+	height: 300px;
+	width: 300px;
+	margin-right: 20%;
+	margin-top:70px;
+	background-image: url("http://images.crestock.com/4610000-4619999/4618002-xs.jpg");
+	background-size: contain;
+	float:right;
+}
+.splashBlurb{
+	width:30%;
+	margin-top:150px;
+	margin-left: 20%;
+	font-size: 24px;
+	font-family: 'Open Sans', sans-serif;
+	font-style: bold 700;
+	float: left;
+}
+#resumeLink{
+	float: left;
+	margin: 15px;
+}
+#resumeLink:hover{
+	color: #FF66CC;
+}
+#aboutLink{
+	float: left;
+	margin: 15px;
+}
+#aboutLink:hover{
+	color: #00FFCC;
+}
+#contactLink{
+	float: left;
+	margin: 15px;
+}
+#contactLink:hover{
+	color: #FFFF33;
+}
+.bottomNav{
+	height: 100px;
+	margin-left: 35%;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+}
+#facebookLink{
+	float: left;
+	margin:15px;
+	border-radius: 999px;
+}
+#facebookLink:hover{
+background-color: #00BFFF;
+}
+#linkedinLink{
+	float: left;
+	margin:15px;
+	border-radius: 999px;
+}
+#linkedinLink:hover{
+	background-color: #FF66CC;
+}
+#githubLink{
+	float: left;
+	margin:15px;
+	border-radius: 999px;
+}
+#githubLink:hover{
+	background-color: #00FFCC;
+}
+#emailLink{
+	float: left;
+	margin:15px;
+	border-radius: 999px;
+}
+#emailLink:hover{
+background-color: #FFFF33;
+}
